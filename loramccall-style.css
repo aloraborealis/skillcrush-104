@@ -1,0 +1,37 @@
+/** loramccall's advice **/
+
+.loramccall-advice {
+    background-color:  #006666;
+}
+
+.loramccall-advice h1 {
+    font-family: 'Anonymous Pro', monospace;
+    font-size: 50px;
+    color:  #fff2e6;
+    text-align: left;
+    padding-left: 80px;
+}
+
+.loramccall-advice h3 {
+  font-family: 'Special Elite', cursive;
+  font-size: 42px;
+  color: #f86b5a;
+  text-align: left;
+  padding-left: 80px;
+}
+
+.loramccall-advice h4 {
+  font-family: 'Lora', serif;
+  font-size: 32px;
+  color:  #c2f0f0;
+  text-align: left;
+  padding-left: 150px;
+}
+
+.loramccall-advice p {
+  font-family: 'Lora', serif;
+  font-size: 24px;
+  color:  #c2f0f0;
+  text-align: left;
+  padding-left: 150px;
+}
